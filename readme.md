@@ -44,6 +44,8 @@ Sua contribuição pode fazer a diferença entre um acerto e um "Godeung Match"!
 
 Vamos juntos criar a melhor ferramenta de cálculos para Gunbound! 🚀
 
+
+
 # Gunbound 2025 Aimbot
 
 Um aimbot completo para Gunbound 2025 que captura dados do jogo, calcula trajetórias balísticas e automatiza a mira.
